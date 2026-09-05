@@ -8,7 +8,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=600&color=2496ED&width=500&lines=Hello%2C+eu+sou+o+Nicollas!;Data+Analyst;Backend;Software+Engineering+%40+UnB" alt="Nicollas"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=600&color=000000&width=500&lines=Hello%2C+eu+sou+o+Nicollas!;Data+Analyst;Backend;Software+Engineering+%40+UnB" alt="Nicollas"/>
 </a>
 
 <!--
