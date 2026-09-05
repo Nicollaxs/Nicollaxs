@@ -74,12 +74,11 @@ Compartilho aqui insights de carreira, dados e engenharia de software.
 <!--
      Olá, recrutadores!
 -->
-
 ### GitHub Stats
 
 <div align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nicollaxs&show_icons=true&include_all_commits=true&count_private=false&theme=github_dark&hide_border=true" alt="stats"/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicollaxs&layout=compact&langs_count=6&theme=github_dark&hide_border=true" alt="top langs"/>
+    <img height="165" src="https://github-readme-stats-navy-sigma-20.vercel.app/api?username=Nicollaxs&show_icons=true&include_all_commits=true&count_private=false&theme=github_dark&hide_border=true" alt="stats"/>
+    <img height="165" src="https://github-readme-stats-navy-sigma-20.vercel.app/api/top-langs?username=Nicollaxs&layout=compact&langs_count=6&theme=github_dark&hide_border=true" alt="top langs"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" alt="footer"/>
