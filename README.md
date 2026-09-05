@@ -24,7 +24,7 @@
 -->
 ### Main skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,spring,postgres,mysql,docker,kubernetes,git,github,githubactions,js,vue,react,nodejs,html,css,tailwind,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,spring,postgres,mysql,docker,kubernetes,git,js,vue,react,nodejs,linux)](https://skillicons.dev)
 
 ### Data & BI
 
