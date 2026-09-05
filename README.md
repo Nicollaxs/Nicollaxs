@@ -57,17 +57,14 @@ Compartilho aqui insights de carreira, dados e engenharia de software.
 ### Connect with me!
 
 <div>
-    <a href="https://www.linkedin.com/in/SEU-USUARIO/">
+    <a href="https://www.linkedin.com/in/nicollas-gabriel-387313231/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/Nicollaxs">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="mailto:SEU-EMAIL@gmail.com">
+    <a href="mailto:nicollason@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://discord.com/users/SEU-ID">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
 </div>
 
