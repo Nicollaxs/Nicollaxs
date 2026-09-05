@@ -5,10 +5,10 @@
     Se curtir, me segue de volta? É só um clique :)
     Vamos nos conectar no LinkedIn também!
 -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:6DB33F&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=600&color=2496ED&width=500&lines=Hello%2C+eu+sou+o+Nicollas!;BI+Analyst+%40+FKD+Creators;Software+Engineering+%40+UnB;Data+de+dia%2C+backend+de+noite" alt="Nicollas"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=600&color=2496ED&width=500&lines=Hello%2C+eu+sou+o+Nicollas!;Data+Analyst;Backend;Software+Engineering+%40+UnB" alt="Nicollas"/>
 </a>
 
 <!--
@@ -23,15 +23,11 @@
      Minha stack e as ferramentas que eu uso!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,spring,postgres,mysql,docker,kubernetes,git,github,githubactions,js,vue,react,nodejs,html,css,tailwind,latex,linux)](https://skillicons.dev)
 
-### Studying
-[![Learning](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,spring,postgres,mysql,docker,kubernetes,git,github,githubactions,js,vue,react,nodejs,html,css,tailwind,linux)](https://skillicons.dev)
 
-<!--
-     Data & BI que o skillicons não cobre -> como badges
--->
 ### Data & BI
+
 <div>
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
     <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX"/>
@@ -59,6 +55,7 @@ Compartilho aqui insights de carreira, dados e engenharia de software.
      Links rápidos pras minhas redes!
 -->
 ### Connect with me!
+
 <div>
     <a href="https://www.linkedin.com/in/SEU-USUARIO/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -77,17 +74,15 @@ Compartilho aqui insights de carreira, dados e engenharia de software.
 <!--
      Olá, recrutadores!
 -->
-### Employer?
-> [!IMPORTANT]
-> <a href="LINK-DO-SEU-CURRICULO" download>Baixe meu currículo</a>
 
 ### 📊 GitHub Stats
-<div>
+
+<div align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nicollaxs&show_icons=true&include_all_commits=true&count_private=false&theme=github_dark&hide_border=true" alt="stats"/>
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicollaxs&layout=compact&langs_count=6&theme=github_dark&hide_border=true" alt="top langs"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:2496ED&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" alt="footer"/>
 
 <!--
      Obrigado pela visita! <3
